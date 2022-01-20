@@ -1,0 +1,42 @@
+
+.body{
+  display: flex;
+  padding: 20px;
+  width: 50%;
+
+}
+
+.keys{
+  background-image: linear-gradient(to right, blue, purple, red, orange, yellow, green);
+  opacity: 75%;
+  height: 265px;
+  width: 59.5rem;
+  border-width: 10 px;
+  border: solid rgb(26, 26, 26);
+  margin-left: 30px;
+  margin-right: 30px;
+  display: inline-flexbox;
+}
+
+.sharpkeys{
+  margin-left: 85px;
+  margin-top: 9px;
+  display: flex;
+  height: 110px; 
+  text-decoration-color: black;
+  
+
+}
+
+.regularkeys{
+  margin-left: 10px;
+  display: flex;
+  height: 130px;
+  margin-top: 2px;
+}
+
+
+
+
+
+
